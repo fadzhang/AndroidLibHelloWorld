@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidLib</string>
+
+    <string name="net_error_timeout">连接超时，请重试...</string>
+    <string name="net_error">连接错误，请重试...</string>
+    <string name="net_parse_error">解析错误</string>
+    <string name="error">错误：</string>
+</resources>
